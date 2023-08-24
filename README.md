@@ -9,7 +9,7 @@ Repo for students to practice creating a pull request after forking a repo
 
     *Note that if you are already listed as a collaborator on the repo, or it is your own repo, you can skip this step in practice.
 
-2. Clone the GitHub repository from your GitHub account (`git clone https://github.com/sbruce23/STAT624_PRdemo.git`)
+2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/STAT624_PRdemo.git`), replacing `your-username` with your actual GitHub username.
 
 3. In a terminal window located at the folder, run:
 
